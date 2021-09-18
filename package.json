@@ -1,0 +1,26 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Joao7878",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.6.0",
+    "bitfield": "^4.0.0",
+    "discord.js": "^13.1.0",
+    "ffbinaries": "^1.1.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "ffmpeg-static": "^4.4.0",
+    "opusscript": "0.0.8",
+    "yt-search": "^2.10.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
