@@ -46,9 +46,5 @@ client.once('ready', ()=> {
     }
   
 });
-async function obterUrl(tocar){
-    for(i = tocar.indexOf(" "); i<tocar.length;i++){
-        
-    }
-}
+
     
